@@ -20,3 +20,7 @@
 **Task 5 - Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’**
 
 **Task 5 dataset- https://bit.ly/34SRn3b**
+
+**Task 6 -Prediction using Decision Tree Algorithm**
+
+**Task 6 dataset- https://bit.ly/3kXTdox**
